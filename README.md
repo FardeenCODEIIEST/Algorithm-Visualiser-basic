@@ -1,6 +1,6 @@
-# algorithms_visualiser
+# Algorithm Visualiser App in Flutter
 
-A new Flutter project.
+A basic flutter app that displays basic searching and sorting algorithms.
 
 ## Getting Started
 
